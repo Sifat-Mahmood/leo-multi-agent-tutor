@@ -4,6 +4,14 @@ Leo is a study assistant built from four specialized AI agents that collaborate 
 
 Built with **CrewAI**, powered by **Groq (llama-3.1-8b-instant)**, run via a **CLI interface**.
 
+## Demo Video
+
+
+
+https://github.com/user-attachments/assets/29951210-a944-4478-94ce-fec7bbf49f9b
+
+
+
 ---
 
 ## Table of Contents
